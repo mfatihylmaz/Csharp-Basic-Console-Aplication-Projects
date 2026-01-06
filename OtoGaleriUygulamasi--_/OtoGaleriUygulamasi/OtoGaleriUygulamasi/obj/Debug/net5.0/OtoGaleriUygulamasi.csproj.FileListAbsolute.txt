@@ -1,0 +1,46 @@
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.exe
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.deps.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.runtimeconfig.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.runtimeconfig.dev.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.csproj.AssemblyReference.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\refint\OtoGaleriUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\ref\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.exe
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.deps.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.runtimeconfig.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.runtimeconfig.dev.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.AssemblyInfo.cs
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\refint\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.genruntimeconfig.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\ref\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.exe
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.deps.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.runtimeconfig.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.runtimeconfig.dev.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\bin\Debug\net5.0\OtoGaleriUygulamasi.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.AssemblyInfo.cs
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\refint\OtoGaleriUygulamasi.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\OtoGaleriUygulamasi.genruntimeconfig.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 5\OtoGaleriUygulamasi-G059-MFY\OtoGaleriUygulamasi-G059-Temel\OtoGaleriUygulamasi\OtoGaleriUygulamasi\obj\Debug\net5.0\ref\OtoGaleriUygulamasi.dll
