@@ -1,0 +1,14 @@
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.exe
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.deps.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.runtimeconfig.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.AssemblyInfoInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.AssemblyInfo.cs
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.csproj.CoreCompileInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\refint\OkulYonetimUygulamasi_Hafta6.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Hafta6.genruntimeconfig.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\ref\OkulYonetimUygulamasi_Hafta6.dll

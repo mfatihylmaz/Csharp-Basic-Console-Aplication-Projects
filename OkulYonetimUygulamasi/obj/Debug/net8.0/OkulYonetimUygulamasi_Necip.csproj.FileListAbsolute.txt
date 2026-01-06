@@ -1,0 +1,14 @@
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Necip.exe
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Necip.deps.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Necip.runtimeconfig.json
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Necip.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Debug\net8.0\OkulYonetimUygulamasi_Necip.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.AssemblyInfoInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.AssemblyInfo.cs
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.csproj.CoreCompileInputs.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\refint\OkulYonetimUygulamasi_Necip.dll
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.pdb
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\OkulYonetimUygulamasi_Necip.genruntimeconfig.cache
+C:\Users\Fatih YILMAZ\Desktop\SiliconMade Kurs\HAFTA 6\Necip abi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Debug\net8.0\ref\OkulYonetimUygulamasi_Necip.dll
